@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Parisa Mostafavi 👋
+Data & Analytics Leader with 7+ years of experience delivering business impact through segmentation, forecasting, optimization, and dashboards.
 
-<!--
-**parisaMSTFV/parisaMSTFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I work on
+- Customer & product segmentation
+- Forecasting and demand modeling
+- Optimization and experimentation
+- KPI monitoring and automated alerting
 
-Here are some ideas to get you started:
+### Tech
+Python · SQL · Tableau · Power BI · Spark/Hadoop · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+- Segmentation framework (customer & product)
+- Sales forecasting platform
+- Retail product selection optimization
+- Reseller detection pipeline
+
+📫 Reach me: LinkedIn | Email
