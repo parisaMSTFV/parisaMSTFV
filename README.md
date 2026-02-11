@@ -1,51 +1,84 @@
 ## Hi, I’m Parisa Mostafavi 👋  
 
-I work at the intersection of **business strategy, analytics, and machine learning**, focusing on turning complex business problems into scalable, data-driven solutions with measurable impact.
+Strategic Insight & Marketing Analytics Leader with 7+ years of experience driving data-informed planning, budgeting, and growth decisions in large-scale e-commerce environments.
 
-With 7+ years of experience in data analytics and insight leadership, my work goes beyond modeling and dashboards. I focus on **problem framing, decision design, and execution**, ensuring analytical outputs directly inform strategy, pricing, targeting, and operational priorities.
-
----
-
-### How I approach problems
-- Start from **business objectives and constraints**, not from models  
-- Translate ambiguous questions into **clear analytical and decision frameworks**  
-- Combine **domain knowledge, data, and experimentation** to drive strategy  
-- Build solutions that are **actionable, interpretable, and scalable**  
+I work at the intersection of **strategy, analytics, and execution**, partnering with leadership teams to translate complex business objectives into measurable, scalable decision systems.
 
 ---
 
-### Areas of focus
-- Business and growth strategy powered by data  
-- Customer & product segmentation  
-- Personalization and targeting  
-- Churn prediction and retention analytics  
-- Forecasting, optimization, and experimentation  
-- KPI design, monitoring, and automated alerting  
-- Applied machine learning for efficiency and profitability  
+## What I Do
+
+I design and lead analytics initiatives that directly influence:
+
+- Marketing planning and annual budget allocation  
+- P&L ownership and profitability optimization  
+- Investment prioritization under fixed constraints  
+- Campaign effectiveness and ROI improvement  
+- KPI driver analysis and performance acceleration  
+
+My focus is not only on building models, but on ensuring insights shape real business decisions.
 
 ---
 
-### Selected analytics & ML work
-- **Customer churn prediction models** to identify at-risk users and inform retention strategies  
-- **Personalization and recommendation frameworks** for product selection and campaign targeting  
-- **Customer and product segmentation models** supporting pricing, discount, and acquisition decisions  
-- **Sales and demand forecasting platforms** integrating seasonality, FX, campaigns, and external signals  
-- **Optimization engines** (game theory & genetic algorithms) for assortment and budget allocation  
-- **Fraud and reseller detection models** to protect campaign ROI and genuine demand  
+## Core Areas of Expertise
+
+### Strategy & Planning
+- Marketing Strategy & Planning  
+- Budget Allocation & ROI Optimization  
+- P&L Analysis and Margin Impact Modeling  
+- Scenario-Based Investment Optimization  
+
+### Advanced Analytics & Decision Systems
+- Customer & Product Segmentation Frameworks  
+- Demand Forecasting & Scenario Modeling  
+- KPI Driver Tree Design & WBR Automation  
+- Campaign Effectiveness & Attribution  
+- Optimization Models (Game Theory & Genetic Algorithms)  
+- Personalization & Lifecycle-Based Targeting  
+
+### Applied Machine Learning
+- Churn Prediction Foundations  
+- Behavioral Pattern & Identity Analysis  
+- Personalization Analytics  
+- Automated Performance Monitoring & Alerting  
 
 ---
 
-### Tools & methods
-Python · SQL · Machine Learning · Time Series Forecasting · Optimization  
-Tableau · Power BI · Spark/Hadoop · Git  
+## Selected Impact
+
+- Reduced marketing spend by 20% through strategic segmentation  
+- Improved demand forecast accuracy by 30%  
+- Enabled up to 50% potential profitability improvement via strategic product selection optimization  
+- Reduced manual reporting time by 60% through automated monitoring systems  
+- Increased trend-driven conversion rates by 25%  
 
 ---
 
-### What you’ll find here
-This GitHub showcases **case studies, analytical frameworks, and selected implementations** that demonstrate how I connect data science with real-world business decisions, while respecting data sensitivity and production constraints.
+## Tools & Technologies
+
+Python · SQL · Predictive Modeling  
+Tableau · Power BI  
+Advanced Optimization (Game Theory, Genetic Algorithms)  
+Demand Forecasting & Scenario Analysis  
+Git  
 
 ---
 
-### Connect
-- LinkedIn: [parisa-mostafavi](https://www.linkedin.com/in/parisa-mostafavi/)
-- Email: [parisamostafavi23@gmail.com](mailto:parisamostafavi23@gmail.com)
+## Leadership
+
+- Led cross-functional Marketing Insights teams  
+- Partnered with Marketing, Growth, Finance, and Category leadership  
+- Mentored analysts and aligned insights with executive priorities  
+
+---
+
+## What You’ll Find Here
+
+This GitHub presents structured case studies and analytical frameworks that demonstrate how strategy, analytics, and machine learning can be combined to drive measurable business outcomes — while respecting production and data sensitivity constraints.
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/parisa-mostafavi/  
+Email: parisamostafavi23@gmail.com
