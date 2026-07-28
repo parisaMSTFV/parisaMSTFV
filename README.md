@@ -1,84 +1,51 @@
-## Hi, I’m Parisa Mostafavi 👋  
+# Applied Data Science & Decision Systems
 
-Strategic Insight & Marketing Analytics Leader with 7+ years of experience driving data-informed planning, budgeting, and growth decisions in large-scale e-commerce environments.
+I’m an analytics leader with 7+ years of experience in e-commerce, building
+customer analytics, forecasting, and optimization systems that support
+commercial decisions.
 
-I work at the intersection of **strategy, analytics, and execution**, partnering with leadership teams to translate complex business objectives into measurable, scalable decision systems.
+My work combines hands-on Python and SQL with problem framing, analytical
+validation, stakeholder communication, and team leadership.
 
----
+## Selected projects
 
-## What I Do
+| Project | Decision problem | Methods | Current evidence |
+|---|---|---|---|
+| [Demand Forecasting](https://github.com/parisaMSTFV/demand-forecasting-order-share-system) | How much daily demand should be expected by metric and province? | Time-series backtesting, seasonal baselines, tree models, intervals, reconciliation | [Rebuild PR](https://github.com/parisaMSTFV/demand-forecasting-order-share-system/pull/1): tested CLI, monitoring artifacts, CI |
+| [Customer Segmentation](https://github.com/parisaMSTFV/customer-segmentation-decision-system) | Which customer groups are stable and actionable? | KMeans, GMM, cluster validation, bootstrap stability, drift | [Rebuild PR](https://github.com/parisaMSTFV/customer-segmentation-decision-system/pull/1): synthetic generator, tested action mapping, CI |
+| [Product Selection Optimizer](https://github.com/parisaMSTFV/product-selection-optimizer) | Which products maximize expected profit under commercial constraints? | Binary optimization, feasible greedy baseline, sensitivity analysis | [Model-fix PR](https://github.com/parisaMSTFV/product-selection-optimizer/pull/1): fixed constraints, feasibility tests, CI |
+| [Customer Community Detection](https://github.com/parisaMSTFV/Commiunity-Detection) | Which interaction communities appear in a customer graph? | Weighted graph construction, Louvain community detection | [Method-fix PR](https://github.com/parisaMSTFV/Commiunity-Detection/pull/1): fitted model, CLI and app smoke test, CI |
+| [Agentic Business Review](https://github.com/parisaMSTFV/Agentic-Business-review) | How can a reviewable pipeline structure synthetic business-review inputs? | Structured stages, caching, deterministic HTML/SVG rendering | [Sanitization PR](https://github.com/parisaMSTFV/Agentic-Business-review/pull/1): offline demo, model card, tests, CI |
 
-I design and lead analytics initiatives that directly influence:
+The linked improvements are Draft PRs. Repository `main` branches remain
+unchanged until review and merge.
 
-- Marketing planning and annual budget allocation  
-- P&L ownership and profitability optimization  
-- Investment prioritization under fixed constraints  
-- Campaign effectiveness and ROI improvement  
-- KPI driver analysis and performance acceleration  
+## Technical toolkit
 
-My focus is not only on building models, but on ensuring insights shape real business decisions.
+Python · SQL · SQL Server · ClickHouse · scikit-learn · Power BI · Tableau ·
+Metabase · Git
 
----
+## How I work
 
-## Core Areas of Expertise
+- frame analytical work around a decision, constraint, and measurable outcome
+- separate prediction, causal claims, and action policies
+- make assumptions, data provenance, and limitations visible
+- prefer reproducible pipelines, tests, and baselines over notebook-only claims
+- communicate evidence in a form that business stakeholders can review
 
-### Strategy & Planning
-- Marketing Strategy & Planning  
-- Budget Allocation & ROI Optimization  
-- P&L Analysis and Margin Impact Modeling  
-- Scenario-Based Investment Optimization  
+## Professional experience
 
-### Advanced Analytics & Decision Systems
-- Customer & Product Segmentation Frameworks  
-- Demand Forecasting & Scenario Modeling  
-- KPI Driver Tree Design & WBR Automation  
-- Campaign Effectiveness & Attribution  
-- Optimization Models (Game Theory & Genetic Algorithms)  
-- Personalization & Lifecycle-Based Targeting  
+I lead Marketing Insight & Strategy work, connecting customer and commercial
+analytics with planning, prioritization, and executive decisions.
 
-### Applied Machine Learning
-- Churn Prediction Foundations  
-- Behavioral Pattern & Identity Analysis  
-- Personalization Analytics  
-- Automated Performance Monitoring & Alerting  
+Career outcomes belong to my professional record; they are not presented as
+performance benchmarks for these public portfolio projects.
 
----
+## Portfolio roadmap
 
-## Selected Impact
-
-- Reduced marketing spend by 20% through strategic segmentation  
-- Improved demand forecast accuracy by 30%  
-- Enabled up to 50% potential profitability improvement via strategic product selection optimization  
-- Reduced manual reporting time by 60% through automated monitoring systems  
-- Increased trend-driven conversion rates by 25%  
-
----
-
-## Tools & Technologies
-
-Python · SQL · Predictive Modeling  
-Tableau · Power BI  
-Advanced Optimization (Game Theory, Genetic Algorithms)  
-Demand Forecasting & Scenario Analysis  
-Git  
-
----
-
-## Leadership
-
-- Led cross-functional Marketing Insights teams  
-- Partnered with Marketing, Growth, Finance, and Category leadership  
-- Mentored analysts and aligned insights with executive priorities  
-
----
-
-## What You’ll Find Here
-
-This GitHub presents structured case studies and analytical frameworks that demonstrate how strategy, analytics, and machine learning can be combined to drive measurable business outcomes — while respecting production and data sensitivity constraints.
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/parisa-mostafavi/  
-Email: parisamostafavi23@gmail.com
+- retention decision system: churn risk, customer value, treatment effects,
+  and constrained policy evaluation
+- recommender-system reimplementation with public data, temporal evaluation,
+  baselines, and ablation
+- analytics-engineering project with DuckDB, dbt, tested marts, and KPI
+  definitions
