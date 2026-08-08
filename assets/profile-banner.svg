@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Parisa Mostafavi — Decision Science for Customer, Marketing, and Ecommerce</title>
+  <desc id="desc">A dark blue professional banner with an analytical decision flow from evidence to action.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220" />
+      <stop offset="0.56" stop-color="#13233f" />
+      <stop offset="1" stop-color="#10344a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" />
+      <stop offset="1" stop-color="#60a5fa" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)" />
+  <circle cx="1085" cy="36" r="125" fill="#2dd4bf" opacity="0.08" filter="url(#glow)" />
+  <circle cx="765" cy="282" r="150" fill="#60a5fa" opacity="0.07" filter="url(#glow)" />
+
+  <g opacity="0.16" stroke="#93c5fd" stroke-width="1">
+    <path d="M770 36H1160" />
+    <path d="M770 82H1160" />
+    <path d="M770 128H1160" />
+    <path d="M770 174H1160" />
+    <path d="M770 220H1160" />
+    <path d="M816 20V270" />
+    <path d="M872 20V270" />
+    <path d="M928 20V270" />
+    <path d="M984 20V270" />
+    <path d="M1040 20V270" />
+    <path d="M1096 20V270" />
+    <path d="M1152 20V270" />
+  </g>
+
+  <rect x="72" y="64" width="64" height="6" rx="3" fill="url(#accent)" />
+  <text x="72" y="126" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="700" letter-spacing="0.3">Parisa Mostafavi</text>
+  <text x="72" y="171" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="400">Decision Science for Customer, Marketing &amp; Ecommerce</text>
+  <text x="72" y="219" fill="#5eead4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600" letter-spacing="1.7">STRATEGY  ·  ANALYTICS  ·  EXECUTION</text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <path d="M792 150H1115" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.9" />
+    <g transform="translate(810 150)">
+      <circle r="31" fill="#0f2940" stroke="#2dd4bf" stroke-width="2" />
+      <circle r="6" fill="#5eead4" />
+      <text y="55" text-anchor="middle" fill="#cbd5e1" font-size="14">Evidence</text>
+    </g>
+    <g transform="translate(910 150)">
+      <circle r="31" fill="#102d47" stroke="#38bdf8" stroke-width="2" />
+      <path d="M-10 7L-3-4L5 2L12-11" fill="none" stroke="#7dd3fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <text y="55" text-anchor="middle" fill="#cbd5e1" font-size="14">Model</text>
+    </g>
+    <g transform="translate(1010 150)">
+      <circle r="31" fill="#12304a" stroke="#60a5fa" stroke-width="2" />
+      <path d="M-10 0L-3 8L12-10" fill="none" stroke="#93c5fd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <text y="55" text-anchor="middle" fill="#cbd5e1" font-size="14">Decide</text>
+    </g>
+    <g transform="translate(1110 150)">
+      <circle r="31" fill="#12304a" stroke="#a5b4fc" stroke-width="2" />
+      <path d="M-11 8V0M-2 8V-8M7 8V-3M16 8V-14" fill="none" stroke="#c7d2fe" stroke-width="3" stroke-linecap="round" />
+      <text y="55" text-anchor="middle" fill="#cbd5e1" font-size="14">Measure</text>
+    </g>
+  </g>
+</svg>
