@@ -79,6 +79,7 @@ The portfolio separates three evidence levels: licensed external validation, val
 
 | Decision area | Project | What it demonstrates |
 |---|---|---|
+| Acquisition economics | [Customer Acquisition Payback](https://github.com/parisaMSTFV/customer-acquisition-payback) | Cohort CAC, contribution-margin recovery, payback uncertainty, and channel budget gates |
 | Customer strategy | [Customer Segmentation](https://github.com/parisaMSTFV/customer-segmentation-decision-system) | Stable assignments, definition fingerprints, holdout evaluation, and supplied features |
 | Retention prioritization | [Personalized-Window Churn](https://github.com/parisaMSTFV/customer-churn-personalized-window) | Customer-specific timing, chronological evaluation, and validated transactions |
 | Subscription economics | [Subscription Value & P&L](https://github.com/parisaMSTFV/subscription-value-pnl-analytics) | Portfolio P&L, renewal analysis, sensitivity, and executable SQL |
